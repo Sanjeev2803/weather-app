@@ -1,0 +1,15 @@
+#temp1,#temp2,#temp3{
+    font-size: 100px;
+}
+.card-body ul li{
+    font-size: medium;
+}
+.white-theme {
+  background-color: #fff;
+  color: #000;
+}
+
+.black-theme {
+  background-color: lightpink;
+  color: #fff;
+}
